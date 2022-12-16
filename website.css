@@ -1,7 +1,103 @@
 .index {
-    background-image: url(sandbox.jpeg);
+    background-image: url(back2.jpg);
+ 
+}
+.projectone {
+    background-image: url(back2.jpg);
+ 
 }
 
+.green {position: absolute;
+    top: 0;
+    left: 300;  
+} 
+
+.projecttwo {
+    background-image: url(back2.jpg);
+} 
+.projectthree {
+    background-image: url(back2.jpg);
+} 
+
+.projectfour {
+    background-image: url(back2.jpg);
+} 
 h1 {
-    background-color:MediumSeaGreen;
+    background-color:lightskyblue;
+}
+.fishimage{position: absolute;
+    top: 200;
+    left:50;
+}
+.fish2 {position: absolute;
+    top: 170;
+    left: 800;
+}
+
+.fishvid {position: absolute;
+    top: 1050;
+    left: 0;
+}
+
+.fish3{position: absolute;
+    top: 1050;
+    left: 600;
+}
+ 
+.ahh {position: absolute;
+    top: 300;
+    left:50;
+}
+.ahh2 {position: absolute;
+    top: 170;
+    left: 800;
+}
+
+.boo2 {position: absolute;
+    top: 170;
+    left: 800;
+}
+
+.neovid {position: absolute;
+    top: 170;
+    left: 800;
+}
+
+.finalprojs {position: absolute;
+    top: 1050;
+    left: 0;
+}
+
+
+.green {position: absolute;
+    background-color:lightskyblue;
+text-align: center;
+top: 900;
+left: 300;}
+p {color: white;}
+.p3 {position: absolute;
+    
+    top: 500;
+    text-align: center;
+    left: 675
+}
+
+.proj1 {
+    position: absolute;
+    text-align: center;
+    top: 100;
+    left: 675;
+}
+.proj2 {
+    position: absolute;
+    text-align: center;
+    top: 300;
+    left: 675;
+}
+
+.p4 {
+    position: absolute;
+    text-align: center;
+    top: 700;
+    left: 675;
 }
